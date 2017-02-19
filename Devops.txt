@@ -1,0 +1,20 @@
+https://try.github.io/levels/1/challenges/1
+
+https://docs.puppetlabs.com/guides/install_puppet/install_el.html
+https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Red+Hat+distributions
+http://www.slashroot.in/puppet-tutorial-getting-started-puppet-manifests
+https://www.example42.com/tutorials/PuppetTutorial/#slide-11
+
+command to run master
+puppet master --verbose --no-daemonize
+--server=puppetmaster --no-daemonize --verbose --onetime
+
+on agent
+telnet <ip of master> 8140("port puppet listens to)
+
+Puppet hands-on -
+https://www.digitalocean.com/community/tutorials/getting-started-with-puppet-code-manifests-and-modules
+
+
+good doc on Git - : https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+Puppet docs -: http://www.example42.com/tutorials/PuppetTutorial/#slide-11
